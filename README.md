@@ -18,7 +18,8 @@ flash it, then you can enjoy your ebrp. ebrp experience is one of a lifetime exp
   
   ![IMG_20230917_161203](https://github.com/tw0xa/ebrp/assets/98216123/30d401c2-22d1-4a6a-9cf6-e7b44d55041c)
   
-  ![IMG_20230917_161203](https://github.com/tw0xa/ebrp/assets/98216123/e9ecf8d9-796f-4169-980c-a286383ecc77)
+  ![IMG_20230917_161214](https://github.com/tw0xa/ebrp/assets/98216123/18278b46-5451-47dd-aa4f-276036ac6f78)
+
 
 (broken power button, so no enesbatur :(( )\
 (bad lighting (enesbaturnotnatural_lighting) tho)\
