@@ -2,7 +2,7 @@
 Enes Batur Recovery Project
 
 NOTE/EN: This project is just a joke\
-NOT/TR: Bu proje mizah amaçlı yaplılmıştır.
+NOT/TR: Bu proje mizah amaçlı yapılmıştır.
 
 **Features**\
 No american english, use british\
@@ -34,14 +34,14 @@ flash it
 6- ```rm -rf ramdisk/twres```\
 7- ```cp -r /path/to/cloned/ebrp/twres ramdisk/```\
 8- ```./repackimg.sh```\
-9- tada! image-new.img is your shiny ebrp image.
+9- enes batur! image-new.img is your shiny ebrp image.
 
 **Current devices**\
 https://github.com/tw0xa/ebrp/blob/main/DEVICES.md
 
 **Publish your build**\
-1- Fork repo\
-2- add your device to DEVICES.md\
+1- Fork (enes batur) repo\
+2- add your device (ebrp) to DEVICES.md (enes batur)\
 example: ```codename: https://github.com/tw0xa/ebrp/releases/download/twrpversion/ebrp-twrpversion-codename.img``` \
 3- upload your ebrp image to smth like gdrive/sourceforge \
 4- create a pull request with the link of your ebrp image and a photo with ebrp running on the phone.\
