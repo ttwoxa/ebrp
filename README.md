@@ -10,7 +10,7 @@ enes batur :sunglasses:\
 masterpiece turkish translation
 
 **Installation**\
-flash it, then you can enjoy your ebrp. ebrp experience is one of a lifetime experience that you should taste, as we think.
+flash it, then you can enjoy ebrp. ebrp experience is one of a lifetime experience that you should taste, as we think.
 
 **Screenshots**
 <details>
