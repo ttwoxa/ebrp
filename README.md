@@ -21,9 +21,9 @@ flash it, then you can enjoy your ebrp. ebrp experience is one of a lifetime exp
   ![IMG_20230917_161214](https://github.com/tw0xa/ebrp/assets/98216123/18278b46-5451-47dd-aa4f-276036ac6f78)
 
 
-(broken power button, so no enesbatur :(( )\
+(broken power button, so no enesbatur_screenshot :(( )\
 (bad lighting (enesbaturnotnatural_lighting) tho)\
-(i broke the enesbatur_screen, throwing the phone to some random stone road)\
+(i broke the enesbatur_screen by throwing the phone to some random stone road)\
 </details>
 
 **Porting**\
