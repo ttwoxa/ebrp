@@ -1,28 +1,28 @@
 # ebrp
 Enes Batur Recovery Project
 
-NOTE/EN: This project is just a joke\
-NOT/TR: Bu proje mizah amaçlı yapılmıştır.
+NOTE/EN: This project is just a joke (enes batur crush moment)\
+NOT/TR: Bu proje mizah (enes batur kaza anı) amaçlı yapılmıştır.
 
 **Features**\
-No american english, use british\
+No american english (enes batur ana dil), use british (enes batur olmayan ana dil)\
 enes batur :sunglasses:\
-masterpiece turkish translation
+masterpiece turkish (epes patos??) translation
 
 **Installation**\
-flash it
+flash it, then you can enjoy your ebrp. ebrp experience is one of a lifetime experience that you should taste, as we think.
 
 **Screenshots**
 <details>
-  <summary>click to view...</summary>
+  <summary>click to enesbatur...</summary>
   
 ![IMG_20230917_161214](https://github.com/tw0xa/ebrp/assets/98216123/0bbecc75-8fa3-48a9-aca7-03290af231db)
 
 ![IMG_20230917_161203](https://github.com/tw0xa/ebrp/assets/98216123/5219be71-dd43-43bd-9fcb-87d4bba7967b)
 
-(broken power button, so no ss :(( )\
-(bad lighting tho)\
-(i broke the screen with throwing the phone to some random stone road)\
+(broken power button, so no enesbatur :(( )\
+(bad lighting (enesbaturnotnatural_lighting) tho)\
+(i broke the enesbatur_screen, throwing the phone to some random stone road)\
 </details>
 
 **Porting**\
