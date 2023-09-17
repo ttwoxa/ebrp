@@ -1,7 +1,7 @@
 # ebrp
 Enes Batur Recovery Project
 
-NOTE/EN: This project is just a joke (enes batur crash moment)\
+NOTE/EN: This project is just a joke (enes batur crash moment). Also, some random guy named "parallelqw" ruined the english on this page, so blame him for unnecessary text and perfect english.  \
 NOT/TR: Bu proje mizah (enes batur kaza anı) amaçlı yapılmıştır.
 
 **Features**\
