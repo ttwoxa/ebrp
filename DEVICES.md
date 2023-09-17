@@ -1,3 +1,3 @@
-current devices:
+current devices:\
 sagit: https://github.com/tw0xa/ebrp/releases/download/sagit/recovery.img \
 ...
