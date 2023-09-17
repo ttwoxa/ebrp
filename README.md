@@ -6,7 +6,8 @@ NOT/TR: Bu proje mizah amaçlı yaplılmıştır.
 
 **Features**\
 No american english, use british\
-enes batur :sunglasses:
+enes batur :sunglasses:\
+masterpiece turkish translation
 
 **Installation**\
 flash it
