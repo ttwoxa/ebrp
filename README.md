@@ -25,8 +25,8 @@ flash it
 3- download a WORKING twrp img for your device\
 4- ```cd AIK-Linux```\
 5- ```./unpackimg.sh path/to/your/twrp.img```\
-6- ```rm -rf ramdisk/twres/*```\
-7- ```cp -r /path/to/cloned/ebrp/* ramdisk/twres```\
+6- ```rm -rf ramdisk/twres```\
+7- ```cp -r /path/to/cloned/ebrp/twres ramdisk/```\
 8- ```./repackimg.sh```\
 9- tada! image-new.img is your shiny ebrp image.
 
