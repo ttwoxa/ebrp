@@ -2,14 +2,14 @@
 Enes Batur Recovery Project
 
 NOTE/EN: This project is just a joke\
-NOT/TR: Bu proje mizah amaçlı yaplılmıştır.\
+NOT/TR: Bu proje mizah amaçlı yaplılmıştır.
 
 **Features**\
 No american english, use british\
-enes batur :sunglasses:\
+enes batur :sunglasses:
 
 **Installation**\
-flash it\
+flash it
 
 **Porting**\
 1- Clone this repo\
@@ -20,7 +20,7 @@ flash it\
 6- ```rm -rf ramdisk/twres/*```\
 7- ```cp -r /path/to/ebrp/repo/* ramdisk/twres```\
 8- ```./repackimg.sh```\
-9- tada! image-new.img is your shiny ebrp image.\
+9- tada! image-new.img is your shiny ebrp image.
 
 **Current devices**
 sagit\
