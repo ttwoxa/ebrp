@@ -42,7 +42,7 @@ https://github.com/tw0xa/ebrp/blob/main/DEVICES.md
 **Publish your build**\
 1- Fork repo\
 2- add your device to DEVICES.md\
-example: ```codename: https://github.com/tw0xa/ebrp/releases/download/twrpversion/ebrp-twrpversion-codename.img \
+example: ```codename: https://github.com/tw0xa/ebrp/releases/download/twrpversion/ebrp-twrpversion-codename.img``` \
 3- upload your ebrp image to smth like gdrive/sourceforge \
 4- create a pull request with the link of your ebrp image and a photo with ebrp running on the phone.\
 5- wait\
