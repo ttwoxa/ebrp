@@ -22,7 +22,7 @@ flash it
 8- ```./repackimg.sh```\
 9- tada! image-new.img is your shiny ebrp image.
 
-**Current devices**
+**Current devices**\
 https://github.com/tw0xa/ebrp/blob/main/DEVICES.md
 
 **Publish your build**
