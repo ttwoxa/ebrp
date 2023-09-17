@@ -7,7 +7,7 @@ NOT/TR: Bu proje mizah (enes batur kaza anı) amaçlı yapılmıştır.
 **Features**\
 No american english (because of enes batur), use british \
 enes batur :sunglasses:\
-masterpiece turkish (efes patos??) translation
+masterpiece turkish translation
 
 **Installation**\
 flash it, then you can enjoy your ebrp. ebrp experience is one of a lifetime experience that you should taste, as we think.
