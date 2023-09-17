@@ -13,11 +13,17 @@ masterpiece turkish translation
 flash it
 
 **Screenshots**
+<details>
+  <summary>click to view...</summary>
+  
 ![IMG_20230917_161214](https://github.com/tw0xa/ebrp/assets/98216123/0bbecc75-8fa3-48a9-aca7-03290af231db)
+
 ![IMG_20230917_161203](https://github.com/tw0xa/ebrp/assets/98216123/5219be71-dd43-43bd-9fcb-87d4bba7967b)
-(broken power button, so no ss :(( )
-(bad lighting tho)
-(i broke the screen with throwing the phone to some random stone road)
+
+(broken power button, so no ss :(( )\
+(bad lighting tho)\
+(i broke the screen with throwing the phone to some random stone road)\
+</details>
 
 **Porting**\
 1- Clone this repo\
