@@ -1,13 +1,13 @@
 # ebrp
 Enes Batur Recovery Project
 
-NOTE/EN: This project is just a joke (enes batur crush moment)\
+NOTE/EN: This project is just a joke (enes batur crash moment)\
 NOT/TR: Bu proje mizah (enes batur kaza anı) amaçlı yapılmıştır.
 
 **Features**\
-No american english (enes batur ana dil), use british (enes batur olmayan ana dil)\
+No american english (because of enes batur), use british \
 enes batur :sunglasses:\
-masterpiece turkish (epes patos??) translation
+masterpiece turkish (efes patos??) translation
 
 **Installation**\
 flash it, then you can enjoy your ebrp. ebrp experience is one of a lifetime experience that you should taste, as we think.
