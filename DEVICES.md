@@ -1,3 +1,3 @@
 current devices:\
-sagit: https://github.com/tw0xa/ebrp/releases/download/sagit/recovery.img \
+sagit: https://github.com/tw0xa/ebrp/releases/download/3.7.0_9-0/ebrp-3.7.0_9-0-sagit.img \
 ...
